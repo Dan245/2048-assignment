@@ -18,17 +18,8 @@ To play download the Greenfoot Game Engine and load the project
     - can play again after losing
     - final score shown
 
-Amazing work on implementing this game. You made regular commits and demonstrated a strong understanding of OOP concepts.
+## Screenshots
 
-The animation is very slick! I like how you handle adding a new block only after the user has pressed the correct key (I don't know how to explain this feature in words but it is cool)
-
-You commenting could definitley use improvement around your new implementations.
-
-L3 Core Requirements
-[x] A simple and minimal 2048 game is created as shown in the example 
-[x] Correctly commented and formatted code
-
-L4 Core Requirements
-[x] All of the level 3 requirements
-[x] Regular commits showing progression of code!
-[x] Two (or more) other features - Two additional features that improve upon the program. Describe what improvements you made in the Greenfoot Readme as described in the video.
+![main](https://github.com/Dan245/Dan245/blob/main/screenshots/2048_main.png)
+![gameover](https://github.com/Dan245/Dan245/blob/main/screenshots/2048_gameover.png)
+![start](https://github.com/Dan245/Dan245/blob/main/screenshots/2048_start.png)
