@@ -1,6 +1,6 @@
 # 2048 Assignment
 
-To play download the Greenfoot Game Engine and load the project
+To play, clone the project, [download the Greenfoot Game Engine](https://www.greenfoot.org/download), and load the project in greenfoot!
 
 ## Task
 **Complete a half-finished minimalist 2048 game clone & add features.**
